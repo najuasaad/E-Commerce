@@ -59,8 +59,14 @@ When testing, it's a good idea to have all of the things you would know if you w
 ## Links
 [Github Repo](https://github.com/najuasaad/E-commerce)
 
-[Walkthrough Video]()
+[Walkthrough Video Pt. 1](https://drive.google.com/file/d/1Ia5mIE0YEVMZMwJvhA0j0NXl4HU__Dyi/view)
+
+[Walkthrough Video Pt. 2](https://drive.google.com/file/d/13hqBivHKaHerDfb2a7rbeg90VQnGP1XL/view)
 
 ## Screenshot
 
-[Screenshot1]
+![Screenshot1](./images/Categories.jpg)
+
+![Screenshot2](./images/Products.jpg)
+
+![Screenshot3](./images/Tags.jpg)

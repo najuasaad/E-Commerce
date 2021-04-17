@@ -34,7 +34,7 @@ Product.init(
         isNumeric: true,
       }
     },
-    category_id: {
+    category_id: {//one to many
       type: DataTypes.INTEGER,
       references: {
         model: 'category',
